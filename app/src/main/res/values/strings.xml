@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lifehacks Unlocked</string>
+    <string name="lifehacks">LIFEHACKS</string>
+    <string name="unlocked">UNLOCKED</string>
+    <string name="go_to_bookmarks">Bookmarks</string>
+    <string name="select_category">Categories</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="home">Home</string>
+    <string name="go_to_home">Go to Home</string>
+    <string name="enhance_your_life">Enhance Your Life</string>
+    <string name="press_to_enter">Press to enter</string>
+</resources>
